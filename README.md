@@ -22,4 +22,4 @@
 
 **Leadership Development Internship | RippleMatch - REMOTE (_August 2022 - December 2022_)**
 
-**General Manager | Kung Fu Tea - Columbus, OH (April 2019 - September 2022_)**
+**General Manager | Kung Fu Tea - Columbus, OH (_April 2019 - September 2022_)**
