@@ -1,33 +1,47 @@
 # Computer and Electrical Engineer
 ## [Resume](/assets/pdf/Timmy_Le_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/) | [GitHub](https://github.com/TimmyLe9)
 
-### Languages:
+#### Languages:
   - Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
 
-### Applications:
+#### Applications:
   - Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino
 
-### Operating Systems:
+#### Operating Systems:
   - MacOS, Windows, Linux (Ubuntu and Raspbian)
 
-### Network:
+#### Network:
   - ANSI/TIA-568 Cabling, LAN/WAN, VLAN, CISCO, Azure, VMWare, VPN, TCP/IP, DHCP, Mesh Routers, Switches, Firewall, QoS, Layer 2/3 Troubleshooting, Network Protocols, RJ45 Cat6 Ethernet Wiring, UPS
 
-### Electrical:
+#### Electrical:
   - Microcontroller, PCB, Schematic Design/Capture, PLC, Power Distribution
 
 ## Education
   Bachelor of Science in Computer and Electrical Engineer - The Ohio State University (_December 2023_)
 
 ## Work Experience
-**VBA Developer - WDP Express LLC - REMOTE (_February 2024 - April 2024_)** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
-  - Created an invoice and tracker spreadsheet using Microsoft Excel to support and combine 4 different restaurant inventories.
-  - Utlized VBA to develop macros to generate an invoice and exporet it as a PDF.
+**VBA Developer - WDP Express LLC - REMOTE (_February 2024 - April 2024_)**
+  - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
+  - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
+
+_Project(s) to Refer Below: Invoice Generator VBA_
 
 **Network Engineer - WDP Express LLC - Dayton, OH (_August 2023 - December 2023_)**
+  - Implemented wireless access points, servers, NAS system, and routers for the business.
+  - Utilized CISCO Firewall and Uninterrupted Power Supply (UPS) to ensure complete runtime without disruptions.
+
+_Project(s) to Refer Below: Network Attached Storage (NAS), Card Processor Networkm, Network Router and Switch_
 
 **General Manager - Paris Banh Mi LLC - Dublin, OH (_September 2022 - December 2023_)**
+
+
+_Project(s) to Refer Below: Point of Sale System_
 
 **Leadership Development Internship - RippleMatch - REMOTE (_August 2022 - December 2022_)**
 
 **General Manager - Kung Fu Tea - Columbus, OH (_April 2019 - September 2022_)**
+
+
+_Project(s) to Refer Below: _
+
+## Projects
