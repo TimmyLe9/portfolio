@@ -9,8 +9,6 @@ description: >
 header_pages:
   - resume.md
 
-
-  
 show_downloads: true
 remote_theme: jekyll/minima
 plugins:
