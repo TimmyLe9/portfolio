@@ -17,10 +17,12 @@
   - Microcontroller, PCB, Schematic Design/Capture, PLC, Power Distribution
 
 ## Education
-  Bachelor of Science in Computer and Electrical Engineer - The Ohio State University (December 2023)
+  Bachelor of Science in Computer and Electrical Engineer - The Ohio State University (_December 2023_)
 
 ## Work Experience
-**VBA Developer - WDP Express LLC - REMOTE (_February 2024 - April 2024_)**
+**VBA Developer - WDP Express LLC - REMOTE (_February 2024 - April 2024_)** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
+  - Created an invoice and tracker spreadsheet using Microsoft Excel to support and combine 4 different restaurant inventories.
+  - Utlized VBA to develop macros to generate an invoice and exporet it as a PDF.
 
 **Network Engineer - WDP Express LLC - Dayton, OH (_August 2023 - December 2023_)**
 
