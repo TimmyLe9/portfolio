@@ -1,5 +1,7 @@
 title: Timmy Le
 show_downloads: true
 remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
   skin: solarized-dark
