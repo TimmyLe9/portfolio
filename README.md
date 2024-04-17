@@ -7,7 +7,8 @@
 ### Applications:
   - Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino <
 
-### Operating Systems: MacOS, Windows, Linux (Ubuntu and Raspbian)
+### Operating Systems:
+  - MacOS, Windows, Linux (Ubuntu and Raspbian)
 
 ### Network:
   - ANSI/TIA-568 Cabling, LAN/WAN, VLAN, CISCO, Azure, VMWare, VPN, TCP/IP, DHCP, Mesh Routers, Switches, Firewall, QoS, Layer 2/3 Troubleshooting, Network Protocols, RJ45 Cat6 Ethernet Wiring, UPS
