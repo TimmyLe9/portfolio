@@ -33,15 +33,19 @@ _Project(s) to Refer Below: Invoice Generator VBA_
 _Project(s) to Refer Below: Network Attached Storage (NAS), Card Processor Networkm, Network Router and Switch_
 
 **General Manager - Paris Banh Mi LLC - Dublin, OH (_September 2022 - December 2023_)**
-
+  - Assisted in developing a new restaurant by hiring team members, setting up internal systems and structures, and overseeing final productions.
+  - Developed a POS system to keep track of inventory, receive orders, connect with multiple devices, and manage revenues.
 
 _Project(s) to Refer Below: Point of Sale System_
 
 **Leadership Development Internship - RippleMatch - REMOTE (_August 2022 - December 2022_)**
+  - Participated in learning about social media influences and how to ultilize those skills.
+  - Developed plans and projects to increase social awareness campaign for the company branding.
 
 **General Manager - Kung Fu Tea - Columbus, OH (_April 2019 - September 2022_)**
+  - Managed a team of 50 amongst 3 businesses and ensuring stability.
+  - Developed and implemented goals for the businesss and increase sales by 65%.
 
-
-_Project(s) to Refer Below: _
+_Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 
 ## Projects
