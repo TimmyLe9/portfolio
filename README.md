@@ -49,3 +49,31 @@ _Project(s) to Refer Below: Point of Sale System_
 _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 
 ## Projects
+**Invoice Generator VBA | Excel, VBA, Macros | WDP Express LLC (_February 2024 – April 2024_)**
+  - Created an invoice and tracker spreadsheet using Excel to support and combine 4 different restaurant inventories.
+  -	Utlized the Visual Based for Applications (VBA) to develop macros to generate an invoice and export it as a PDF.
+  -	Reduced work time by 85% to calculate, keep records of, and generate invoices after implementing this spreadsheet. 
+
+**Network Attached Storage (NAS) | UPS, Azure | WDP Express LLC	(_December 2023 – January 2024_)**
+  -	Implemented NAS system to the company to increase collaboration and productivity by 35% and reduce data transfer time. 
+  -	Utilized Uninterrupted Power Supply (UPS) to ensure 80% runtime for the system in case of outage or server disruption. 
+  -	Utilized Azure as a main service of access to the server through local and remote connection. 
+
+**Card Processor Network | Firewall, CISCO, LAN, DHCP | WDP Express LLC	(_November 2023 – December 2023_)**
+  -	Deployed CISCO Firewall to secure card payments processing done over a VPN and ensuring no data corruption. 
+  -	Incorporated LAN and DHCP to restrict certain devices can only be accessed to the same network as the card machine. 
+
+**Network Router and Switch | TCP/IP, Mesh Router, Switch, QoS | WDP Express LLC (_September 2023 – November 2023_)**
+  -	Utilized ANSI/TIA-568 Cabling and connected RJ45 Cat6 ethernet to the company’s infrastructure to improve stability.
+  -	Implemented a Network Switch to connect all cables and set up a Mesh Router access point as a secondary source.
+  -	Incorporated Layer 2/3 Troubleshooting to pinpoint specific nodes to ensure each IP address is connected properly.
+
+**Point of Sale System | C, HTML, CSS, API | Paris Banh Mi LLC (_January 2023 – September 2023_)**
+  -	Incorporated C Language and Excel to implement a Point of Sale (POS) system for multiple restaurants establishments. 
+  -	Integrated POS to a website using HTML and CSS for customers to access online and have it to be updated in real time.  
+  -	Utilized API to allow customers to purchase items through the website and link the payment to the POS. 
+
+**Touch Screen pH Sensor | Microcontroller, Arduino, PCB, Power Distribution (_August 2022 – December 2022_)**
+  -	Utilized Microcontroller MSP430 and Arduino to develop a solar power touchscreen pH Sensor. 
+  -	Developed Printed Circuit Board (PCB) to connect a pH sensor with the microcontroller and become more compact. 
+  -	Incorporated a solar panel as a power supply and monitored the power distribution to avoid any shortage of currents.
