@@ -1,10 +1,14 @@
 # Computer and Electrical Engineer currently based in Columbus, Ohio.
 
-### Languages: Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
-### Applications: Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino
+### Languages:
+  Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
+### Applications:
+  Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino
 ### Operating Systems: MacOS, Windows, Linux (Ubuntu and Raspbian)
-### Network: : ANSI/TIA-568 Cabling, LAN/WAN, VLAN, CISCO, Azure, VMWare, VPN, TCP/IP, DHCP, Mesh Routers, Switches, Firewall, QoS, Layer 2/3 Troubleshooting, Network Protocols, RJ45 Cat6 Ethernet Wiring, UPS
-### Electrical: Microcontroller, PCB, Schematic Design/Capture, PLC, Power Distribution
+### Network:
+  ANSI/TIA-568 Cabling, LAN/WAN, VLAN, CISCO, Azure, VMWare, VPN, TCP/IP, DHCP, Mesh Routers, Switches, Firewall, QoS, Layer 2/3 Troubleshooting, Network Protocols, RJ45 Cat6 Ethernet Wiring, UPS
+### Electrical:
+  Microcontroller, PCB, Schematic Design/Capture, PLC, Power Distribution
 
 ## Education
   - Bachelor of Science in Computer and Electrical Engineer | The Ohio State University at Columbus, Ohio (December 2023)
