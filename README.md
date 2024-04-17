@@ -1,5 +1,5 @@
 # Computer and Electrical Engineer
-## Columbus, Ohio.
+## [Resume](/assets/pdf/Timmy_Le_Resume.pdf)
 
 ### Languages:
   - Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
