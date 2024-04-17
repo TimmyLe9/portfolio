@@ -7,4 +7,4 @@ permalink: /resume/
 Below is my most current resume.
 For any inquiry, my contact information is listed on top of the resume with hyperlinks for convenience.
 
-[Resume](/assets/pdf/Timmy Le Resume.pdf)
+[Resume](/assets/pdf/Timmy_Le_Resume.pdf)
