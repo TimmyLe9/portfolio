@@ -5,7 +5,7 @@
   - Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
 
 ### Applications:
-  - Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino <
+  - Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino
 
 ### Operating Systems:
   - MacOS, Windows, Linux (Ubuntu and Raspbian)
