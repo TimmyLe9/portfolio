@@ -1,13 +1,17 @@
 # Computer and Electrical Engineer
-## [Resume](/assets/pdf/Timmy_Le_Resume.pdf)
+## [Resume](/assets/pdf/Timmy_Le_Resume.pdf)  [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/)
 
 ### Languages:
   - Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
+
 ### Applications:
   - Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino <
+
 ### Operating Systems: MacOS, Windows, Linux (Ubuntu and Raspbian)
+
 ### Network:
   - ANSI/TIA-568 Cabling, LAN/WAN, VLAN, CISCO, Azure, VMWare, VPN, TCP/IP, DHCP, Mesh Routers, Switches, Firewall, QoS, Layer 2/3 Troubleshooting, Network Protocols, RJ45 Cat6 Ethernet Wiring, UPS
+
 ### Electrical:
   - Microcontroller, PCB, Schematic Design/Capture, PLC, Power Distribution
 
