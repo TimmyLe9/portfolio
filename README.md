@@ -1,5 +1,5 @@
 # Computer and Electrical Engineer
-## <pre> [Resume](/assets/pdf/Timmy_Le_Resume.pdf)                   [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/) </pre>
+## <pre> [Resume](/assets/pdf/Timmy_Le_Resume.pdf)    [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/)     [GitHub](https://github.com/TimmyLe9) </pre>
 
 ### Languages:
   - Python C, C++, Java, CSS, HTML, JavaScript, React, Swift, SQL, UNIX
