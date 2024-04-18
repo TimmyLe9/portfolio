@@ -6,7 +6,7 @@ author:
 description: >
   "Hello, World!" Most likely everyone's first coding project. My name is Timmy Le and I hope my first project starts with you!
 
-show_downloads: True
+show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
