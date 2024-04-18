@@ -20,7 +20,7 @@
   Bachelor of Science in Computer and Electrical Engineer - The Ohio State University _December 2023_
 
 ## Work Experience
-**VBA Developer - WDP Express LLC - REMOTE _February 2024 - April 2024_**
+**VBA Developer - WDP Express LLC - REMOTE | _February 2024 - April 2024_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
 
