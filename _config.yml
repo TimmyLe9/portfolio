@@ -4,9 +4,9 @@ author:
   name: Timmy Le
   email: timmyle9@gmail.com 
 description: >
-  Hi, my name is Timmy Le. I am a recent graduate with a Bachelor of Science Degree in Computer and Electrical Engineer at The Ohio State Univeristy and am currently looking for a career in any technology engineer related field.
+  "Hello, World!" Most likely everyone's first coding project. My name is Timmy Le and I hope my first project starts with you!
 
-show_downloads: false
+show_downloads: True
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
