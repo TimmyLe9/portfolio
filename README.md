@@ -2,7 +2,7 @@
 ## [Resume](/assets/pdf/Timmy_Le_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/) | [GitHub](https://github.com/TimmyLe9)
 
 #### Languages:
-  - Python, C, C++, Java, CSS, HTML, JavaScript, React, Node.js, Swift, SQL, UNIX
+  - Python, C, C++, Java, CSS, HTML, JavaScript, React, Node.js, Swift, SQL, Django, UNIX
 
 #### Applications:
   - Git, Viscual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino, TypeScript, PowerShell, SSH
