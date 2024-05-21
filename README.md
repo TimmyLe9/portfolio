@@ -16,6 +16,8 @@
 #### Electrical:
   - Microcontroller, PCB, Schematic Design/Capture, PLC, Power Distribution
 
+--------------------------------------------------------------------------------
+
 # - Education -
   Bachelor of Science in Computer and Electrical Engineer - The Ohio State University _December 2023_
 
