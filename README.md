@@ -18,10 +18,12 @@
 
 --------------------------------------------------------------------------------
 
-# - Education -
+# Education
   Bachelor of Science in Computer and Electrical Engineer - The Ohio State University _December 2023_
 
-# - Work Experience -
+--------------------------------------------------------------------------------
+
+# Work Experience
 **VBA Developer - WDP Express LLC - REMOTE | _February 2024 - April 2024_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
@@ -50,7 +52,9 @@ _Project(s) to Refer Below: Point of Sale System_
 
 _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 
-# - Projects -
+--------------------------------------------------------------------------------
+
+# Projects
 **Invoice Generator VBA | Excel, VBA, Macros | WDP Express LLC | _February 2024 – April 2024_** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
   - Created an invoice and tracker spreadsheet using Excel to support and combine 4 different restaurant inventories.
   -	Utlized the Visual Based for Applications (VBA) to develop macros to generate an invoice and export it as a PDF.
