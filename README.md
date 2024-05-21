@@ -1,4 +1,4 @@
-# Computer and Electrical Engineer
+# - Computer and Electrical Engineer - 
 ## [Resume](/assets/pdf/Timmy_Le_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/) | [GitHub](https://github.com/TimmyLe9)
 
 #### Languages:
