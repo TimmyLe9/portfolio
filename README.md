@@ -32,7 +32,7 @@
   - Implement and manage ICCP protocols to facilitate reliable data exchange and communication between control centers. Ensure adherence to industry standards for interoperability and data integrity.
   - Analyze real-time and historical data to provide actionable insights and generate comprehensive reports. Utilize data to optimize system operations and support decision-making processes.
 
-**VBA Developer - WDP ExpParis Banh Mi Columbus LLCress LLC - REMOTE | _February 2024 - April 2024_**
+**VBA Developer - Paris Banh Mi Columbus LLC - REMOTE | _February 2024 - April 2024_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
 
@@ -63,7 +63,7 @@ _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 --------------------------------------------------------------------------------
 
 # Projects
-**Invoice Generator VBA | Excel, VBA, Macros | Paris Banh Mi Columbus LLC | _February 2024 – April 2024_** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
+**Invoice Generator VBA | Excel, VBA, Macros | Paris Banh Mi Columbus LLC | _February 2024 – April 2024_**  [VBA Code](https://github.com/TimmyLe9/invoice_generator)
   - Created an invoice and tracker spreadsheet using Excel to support and combine 4 different restaurant inventories.
   -	Utlized the Visual Based for Applications (VBA) to develop macros to generate an invoice and export it as a PDF.
   -	Reduced work time by 85% to calculate, keep records of, and generate invoices after implementing this spreadsheet. 
@@ -87,24 +87,24 @@ _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
   -	Integrated POS to a website using HTML and CSS for customers to access online and have it to be updated in real time.  
   -	Utilized API to allow customers to purchase items through the website and link the payment to the POS. 
 
-**Touch Screen pH Sensor | Microcontroller, Arduino, PCB, Power Distribution | _August 2022 – December 2022_** [Arduino Code](https://github.com/TimmyLe9/ece4905)
+**Touch Screen pH Sensor | Microcontroller, Arduino, PCB, Power Distribution | _August 2022 – December 2022_**  [Arduino Code](https://github.com/TimmyLe9/ece4905)
   -	Utilized Microcontroller MSP430 and Arduino to develop a solar power touchscreen pH Sensor. 
   -	Developed Printed Circuit Board (PCB) to connect a pH sensor with the microcontroller and become more compact. 
   -	Incorporated a solar panel as a power supply and monitored the power distribution to avoid any shortage of currents.
 
-**Warehouse Tracker | Google App Script, JavaScript, API | Kung Fu Tea | _August 2022 – December 2022_** [Warehouse Code](https://github.com/TimmyLe9/inventory_warehouse)
+**Warehouse Tracker | Google App Script, JavaScript, API | Kung Fu Tea | _August 2022 – December 2022_**  [Warehouse Code](https://github.com/TimmyLe9/inventory_warehouse)
   -	Created a spreadsheet to organize and track warehouse inventory.
   -	Utilized JavaScript to develop functions to automate notifications and reminders for low stock.
   -	Incorporated API to auto order inventory when stocks are low. 
 
-**Daily Count | Google App Script, JavaScript, API | Kung Fu Tea | _August 2022 – December 2022_** [DailyCount Code](https://github.com/TimmyLe9/inventory_dailycount)
+**Daily Count | Google App Script, JavaScript, API | Kung Fu Tea | _August 2022 – December 2022_**  [DailyCount Code](https://github.com/TimmyLe9/inventory_dailycount)
   -	Created a spreadsheet to have multiple users access at the same time and count inventory without overlapping.
   -	Linked this spreadsheet to the warehouse spreadsheet to incorporate the functionalities mentioned above. 
 
-**Drink Tab | Google App Script, JavaScript, API | Kung Fu Tea | _August 2022 – December 2022_** [DrinkTab Code](https://github.com/TimmyLe9/drink_tab)
+**Drink Tab | Google App Script, JavaScript, API | Kung Fu Tea | _August 2022 – December 2022_**  [DrinkTab Code](https://github.com/TimmyLe9/drink_tab)
   -	Created a spreadsheet to track employee's food consumptions and have it deducted from their payroll.
   -	Generated a user interface for easy view and accessibility. 
 
-**Photo Calendar Slideshow | Raspberry Pi, Raspbian, UNIX/Linux | Personal Project | _August 2022 – December 2022_** [Dashboard Code](https://github.com/TimmyLe9/pi_dashboard)
+**Photo Calendar Slideshow | Raspberry Pi, Raspbian, UNIX/Linux | Personal Project | _August 2022 – December 2022_**  [Dashboard Code](https://github.com/TimmyLe9/pi_dashboard)
   -	Utilized a Raspberry Pi and Raspbian language to develop a touch screen photo slide show.
   -	Incorporated a calendar and a to-do list link through an iPhone app to diplay user's daily necessity.
