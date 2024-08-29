@@ -29,8 +29,8 @@
   - Develop, train, and fine-tune machine learning and deep learning models using frameworks such as TensorFlow and PyTorch.
 
 **ICCP SCADA Engineer | American Electric Power (AEP) – New Albany, OH | Contractor | _May 2024 - Present_**
-  - Implement and manage ICCP protocols to facilitate reliable data exchange and communication between control centers. Ensure adherence to industry standards for interoperability and data integrity.
-  - Analyze real-time and historical data to provide actionable insights and generate comprehensive reports. Utilize data to optimize system operations and support decision-making processes.
+  - Implement and manage ICCP protocols to facilitate reliable data exchange and communication between control centers.
+  - Analyze real-time and historical data to provide actionable insights and generate comprehensive reports.
 
 **VBA Developer - Paris Banh Mi Columbus LLC - REMOTE | _February 2024 - April 2024_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
