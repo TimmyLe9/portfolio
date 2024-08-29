@@ -2,7 +2,7 @@
 ## [Resume](/assets/pdf/Timmy_Le_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/timmy-le-7b4944159/) | [GitHub](https://github.com/TimmyLe9)
 
 #### Languages:
-  - Python, C, C++, Java, CSS, HTML, JavaScript, React, Node.js, Swift, SQL, Django, UNIX
+  - Python, C, C++, Java, Django, SQL, Swift, HTML, CSS, JavaScript, API
 
 #### Applications:
   - Git, Visual Code Studio, Microsoft Office, Excel VBA, JSON, PowerShell, Arduino, TypeScript, PowerShell, SSH
@@ -24,7 +24,15 @@
 --------------------------------------------------------------------------------
 
 # Work Experience
-**VBA Developer - WDP Express LLC - REMOTE | _February 2024 - April 2024_**
+**AI Training – Advanced Coders | Outlier – Remote | Freelancer | _July 2024 - Present_**
+  - Expertly prepare and preprocess large datasets for training AI models, including data cleaning, normalization, and augmentation to ensure high-quality input and enhance model accuracy.
+  - Develop, train, and fine-tune machine learning and deep learning models using frameworks such as TensorFlow and PyTorch.
+
+**ICCP SCADA Engineer | American Electric Power (AEP) – New Albany, OH | Contractor | _May 2024 - Present_**
+  - Implement and manage ICCP protocols to facilitate reliable data exchange and communication between control centers. Ensure adherence to industry standards for interoperability and data integrity.
+  - Analyze real-time and historical data to provide actionable insights and generate comprehensive reports. Utilize data to optimize system operations and support decision-making processes.
+
+**VBA Developer - WDP ExpParis Banh Mi Columbus LLCress LLC - REMOTE | _January 2024 - April 2024_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
 
@@ -55,7 +63,7 @@ _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 --------------------------------------------------------------------------------
 
 # Projects
-**Invoice Generator VBA | Excel, VBA, Macros | WDP Express LLC | _February 2024 – April 2024_** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
+**Invoice Generator VBA | Excel, VBA, Macros | Paris Banh Mi Columbus LLC | _January 2024 – April 2024_** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
   - Created an invoice and tracker spreadsheet using Excel to support and combine 4 different restaurant inventories.
   -	Utlized the Visual Based for Applications (VBA) to develop macros to generate an invoice and export it as a PDF.
   -	Reduced work time by 85% to calculate, keep records of, and generate invoices after implementing this spreadsheet. 
