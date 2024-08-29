@@ -32,7 +32,7 @@
   - Implement and manage ICCP protocols to facilitate reliable data exchange and communication between control centers. Ensure adherence to industry standards for interoperability and data integrity.
   - Analyze real-time and historical data to provide actionable insights and generate comprehensive reports. Utilize data to optimize system operations and support decision-making processes.
 
-**VBA Developer - WDP ExpParis Banh Mi Columbus LLCress LLC - REMOTE | _January 2024 - April 2024_**
+**VBA Developer - WDP ExpParis Banh Mi Columbus LLCress LLC - REMOTE | _February 2024 - April 2024_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
 
@@ -63,7 +63,7 @@ _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 --------------------------------------------------------------------------------
 
 # Projects
-**Invoice Generator VBA | Excel, VBA, Macros | Paris Banh Mi Columbus LLC | _January 2024 – April 2024_** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
+**Invoice Generator VBA | Excel, VBA, Macros | Paris Banh Mi Columbus LLC | _February 2024 – April 2024_** [VBA Code](https://github.com/TimmyLe9/invoice_generator)
   - Created an invoice and tracker spreadsheet using Excel to support and combine 4 different restaurant inventories.
   -	Utlized the Visual Based for Applications (VBA) to develop macros to generate an invoice and export it as a PDF.
   -	Reduced work time by 85% to calculate, keep records of, and generate invoices after implementing this spreadsheet. 
