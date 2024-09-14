@@ -43,7 +43,8 @@ _Project(s) to Refer Below: Network Attached Storage (NAS), Card Processor Netwo
 **VBA Developer - Paris Banh Mi Columbus LLC - REMOTE | _August 2023 - December 2023_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
-_\nProject(s) to Refer Below: Invoice Generator VBA_
+
+_Project(s) to Refer Below: Invoice Generator VBA_
 
 **General Manager - Paris Banh Mi LLC - Dublin, OH | _September 2022 - December 2023_**
   - Assisted in developing a new restaurant by hiring team members, setting up internal systems and structures, and overseeing final productions.
