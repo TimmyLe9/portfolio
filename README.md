@@ -31,21 +31,24 @@
 **ICCP SCADA Engineer | American Electric Power (AEP) – New Albany, OH | Contractor | _May 2024 - Present_**
   - Implement and manage ICCP protocols to facilitate reliable data exchange and communication between control centers.
   - Analyze real-time and historical data to provide actionable insights and generate comprehensive reports.
+
 _Project(s) to Refer Below: OAG To OSI Crossover_
 
 **Network Engineer - WDP Express LLC - Dayton, OH | _August 2023 - April 2024_**
   - Implemented wireless access points, servers, NAS system, and routers for the business.
   - Utilized CISCO Firewall and Uninterrupted Power Supply (UPS) to ensure complete runtime without disruptions.
+
 _Project(s) to Refer Below: Network Attached Storage (NAS), Card Processor Network, Network Router and Switch_
 
 **VBA Developer - Paris Banh Mi Columbus LLC - REMOTE | _August 2023 - December 2023_**
   - Designed a Microsoft Excel spreadsheet to track inventory and create invoices for multiple stores coherently.
   - Utilized Microsoft VBA and Macros to reduce worktime by 85%. 
-_Project(s) to Refer Below: Invoice Generator VBA_
+_\nProject(s) to Refer Below: Invoice Generator VBA_
 
 **General Manager - Paris Banh Mi LLC - Dublin, OH | _September 2022 - December 2023_**
   - Assisted in developing a new restaurant by hiring team members, setting up internal systems and structures, and overseeing final productions.
   - Developed a POS system to keep track of inventory, receive orders, connect with multiple devices, and manage revenues.
+
 _Project(s) to Refer Below: Point of Sale System_
 
 **Leadership Development Internship - RippleMatch - REMOTE | _August 2022 - December 2022_**
@@ -55,6 +58,7 @@ _Project(s) to Refer Below: Point of Sale System_
 **General Manager - Kung Fu Tea - Columbus, OH | _April 2019 - September 2022_**
   - Managed a team of 50 amongst 3 businesses and ensuring stability.
   - Developed and implemented goals for the businesss and increase sales by 65%.
+
 _Project(s) to Refer Below: Drink Tab, Inventory Counter, Warehouse Tracker_
 
 --------------------------------------------------------------------------------
